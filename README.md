@@ -34,10 +34,13 @@
 ![][1]
 TableFormatC示意图
 </center>
+
 <center>
  ![此处输入图片的描述][2]
+
   TableFormatF示意图
 </center>
+
 <center>
  ![此处输入图片的描述](http://of4z9nmrj.bkt.clouddn.com/table.png)
   TableFormatF示意图

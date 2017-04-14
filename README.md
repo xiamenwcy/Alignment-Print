@@ -30,22 +30,22 @@
  }
 ```
 **显示效果：**
-<center>
+
 ![][http://of4z9nmrj.bkt.clouddn.com/TableFormatC.png?imageView2/2/w/500/h/400/interlace/0/q/100]
 
 TableFormatC示意图
-</center>
 
-<center>
+
+
 ![ ][http://of4z9nmrj.bkt.clouddn.com/TableFormatF.png?imageView2/2/w/500/h/400/interlace/0/q/100]
 
   TableFormatF示意图
-</center>
 
-<center>
+
+
  ![ ](http://of4z9nmrj.bkt.clouddn.com/table.png)
  
   TableFormatF示意图
-</center>
+
 
 

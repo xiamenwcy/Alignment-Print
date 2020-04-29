@@ -29,20 +29,6 @@
 
  }
 ```
-**显示效果：**
-
-![](http://of4z9nmrj.bkt.clouddn.com/TableFormatC.png?imageView2/2/w/500/h/400/interlace/0/q/100)
-<center> TableFormatC示意图 </center >
-
-
-
-![](http://of4z9nmrj.bkt.clouddn.com/TableFormatF.png?imageView2/2/w/500/h/400/interlace/0/q/100)
- <center>  TableFormatF示意图 </center >
-
-
-
- ![ ](http://of4z9nmrj.bkt.clouddn.com/table.png)
- <center>   TableFormatF示意图 </center >
 
 
 
